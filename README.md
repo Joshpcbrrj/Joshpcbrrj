@@ -1,31 +1,58 @@
-# Saudações! Eu sou o Josué. 🤘🏾
+<h1 align="center">Olá! Eu sou o Josué 🤘🏾</h1>
+<p align="center"><b>Desenvolvedor Back-End Java</b> · Rio de Janeiro</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josualmeida/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/935159810431791165) [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Joshpcbrrj) [![Codewars](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/joshpcbrrj)
+<p align="center">
+  <a href="https://joshpcbrrj.github.io"><img src="https://img.shields.io/badge/Portfólio-F89820?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/josualmeida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:joshpcbrrj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://discord.com/users/935159810431791165"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://www.codewars.com/users/Joshpcbrrj"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
+  <a href="https://www.hackerrank.com/joshpcbrrj"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+</p>
 
-![Josué B. Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshpcbrrj&show_icons=true&theme=github_dark_dimmed) 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshpcbrrj&layout=donut&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+### 👨🏾‍💻 Sobre mim
 
-### Tecnologias que uso no meu dia a dia:
+Desenvolvedor Java com experiência em **Spring Framework**, **APIs RESTful** e integração de sistemas. Atuei como Desenvolvedor Java na **GX2 Tecnologia** em projeto de **500 mil usuários** e atualmente estou como Técnico de Suporte N2 na **Hepta Tecnologia**. Busco recolocação como **Desenvolvedor Back-End ou Full Stack**.
 
-<div style="display: inline_block"> <br/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="React" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-</div><br/>
+- 🏢 Back-end Java/Spring no ecossistema Liferay para Unimed PJ (impacto: 500 mil usuários)
+- ⚡ Otimização de SQL e refatoração: +15% em entregas e +30% em performance
+- 🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas (Estácio) e Desenvolvedor Full Stack Java (EBAC)
+- 📄 Currículo completo: [joshpcbrrj.github.io](https://joshpcbrrj.github.io)
 
-Se me der toda a tecnologia disponível agora, no minuto seguinte estarei sedento por mais. 
+> Se me der toda a tecnologia disponível agora, no minuto seguinte estarei sedento por mais.
 
-### Links úteis:
-- [Youtube: Como personalizar o seu perfil no Github](https://www.youtube.com/watch?v=cRoBt6AZgjc)
-- [Readme.so: Editor de README online](https://readme.so/)
-- [Emogipedia](https://emojipedia.org/)
-- [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Princípais Comandos markdown](https://github.com/Joshpcbrrj/Udemy-Geek_university-Git_GitHub-Essencial_para_o_Desenvolvedor/blob/main/Conte%C3%BAdo%20do%20curso/7%20-%20Markdown%20readme%20e%20gist/7.1%20-%20Entendendo%20markdown.md)
+### 🛠️ Tecnologias
 
+**Desenvolvimento**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST](https://img.shields.io/badge/APIs_RESTful-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**DevOps & Automação**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+**Infraestrutura**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joshpcbrrj&show_icons=true&theme=github_dark_dimmed&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshpcbrrj&layout=compact&theme=github_dark_dimmed&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
+</p>
